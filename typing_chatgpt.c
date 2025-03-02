@@ -36,7 +36,7 @@ int main() {
         printf("\n%sWelcome to User Management System%s", PINK, COLOR_END);
         printf("\n1. Register");
         printf("\n2. Login");
-        printf("\n3. Practice Lessons");
+        printf("\n3. Use Guest Mode");
         printf("\n4. Exit");
         printf("\nSelect an option: ");
         scanf("%d", &option);
@@ -58,7 +58,7 @@ int main() {
             break;
         case 3:
         {
-            printf("PRACTICE MODE");
+            printf("USING GUEST MODE");
             system("type.exe");
             break;
         }

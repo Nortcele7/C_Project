@@ -68,7 +68,7 @@ int main()
     char text[MAX_LENGTH];
 
     // Get a random lesson
-    getRandomLesson("typing_lessons.txt", text);
+    getRandomLesson("typing_test_sentences.txt", text);
     int len = strlen(text);
 
     printf("%s", text); // Display the text
