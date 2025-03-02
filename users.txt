@@ -1,0 +1,15 @@
+Hello user_management_final.c
+-o user_management_final.c
+- ;
+if ($?
+user_management_final.c -
+{ .\user_management_final
+} user_management_final.c
+Shreyam 123
+cc user_management_final.c
+-o gcc
+user_management_final.c -
+ser_management_final ;
+if ($?
+gcc user_management_final.c
+Shreyam 123
